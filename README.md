@@ -1,7 +1,7 @@
 <div style="background-color:#121212; color:#e0e0e0; padding: 20px; border-radius: 10px;">
 
 <h1 align="center" style="color:#BB86FC;">Hi 👋, I'm Aaron Sam A.S</h1>
-<h3 align="center" style="color:#03DAC6;">AI & Data Science Enthusiast | Generative AI Builder | Full-Stack Explorer</h3>
+<h3 align="center" style="color:#03DAC6;">AI & Data Science Enthusiast | Generative AI Builder 
 
 <p align="center">
   <a href="https://github.com/AaronSam-30052003">
