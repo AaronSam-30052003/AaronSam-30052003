@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aaron Sam A.S</h1>
-<h3 align="center">AI & Data Science Enthusiast | Generative AI Builder | Full-Stack Explorer</h3>
+<div style="background-color:#121212; color:#e0e0e0; padding: 20px; border-radius: 10px;">
+
+<h1 align="center" style="color:#BB86FC;">Hi 👋, I'm Aaron Sam A.S</h1>
+<h3 align="center" style="color:#03DAC6;">AI & Data Science Enthusiast | Generative AI Builder | Full-Stack Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/AaronSam-30052003">
@@ -18,45 +20,49 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3 style="color:#BB86FC;">👨‍💻 About Me</h3>
 
-🚀 Final-year B.Tech Student passionate about solving real-world problems through **AI, ML, and Generative AI**  
-🛠️ Experienced in building predictive models, chatbots, automation tools, and deep learning systems  
-🔍 Keen learner always exploring new technologies in AI, NLP, and computer vision  
-📌 Actively participated in hackathons, project expos, and published papers in peer-reviewed journals
-
----
-
-### 💼 Internship Experience
-
-- 🔍 **Infosys Springboard AI Intern** (Dec 2024 – Feb 2025)  
-  Built an AI tool for **Supply Chain Disruption Prediction** integrated with ERP systems and real-time alerting.
-
-- 🤖 **Agiliz Tech - Prompt Engineering Intern** (Nov 2023 – Dec 2023)  
-  Developed a **Medical Chatbot** using Generative AI for patient assistance.
-
-- 💡 **Knowledge Solutions India - Python Intern** (May 2023 – Oct 2023)  
-  Built a **Cable TV Management System** using Python and SQL with real-time error handling.
+<p>🚀 Final-year B.Tech Student passionate about solving real-world problems through <b>AI, ML, and Generative AI</b><br/>
+🛠️ Experienced in building predictive models, chatbots, automation tools, and deep learning systems<br/>
+🔍 Keen learner always exploring new technologies in AI, NLP, and computer vision<br/>
+📌 Actively participated in hackathons, project expos, and published papers in peer-reviewed journals</p>
 
 ---
 
-### 🚀 Projects & Implementations
+<h3 style="color:#BB86FC;">💼 Internship Experience</h3>
 
-- 🧠 **Stroke Prediction Model** (Random Forest)  
-- 🧠 **Parkinson’s Detection** (XGBoost, Logistic Regression, SVM)  
-- 🩺 **Pneumonia Detection** (CNN)  
-- 👁️ **Diabetic Retinopathy Detection** (InceptionV3, ResNet50)  
-- 📋 **Essay Scoring System** (SpaCy)  
-- 📢 **Speech/Text Assist Tool** (Accessibility-focused)  
-- 🌐 **Multilingual Chat Translator**  
-- 📈 **Automated Hiring System** using Gemini (Resume Screening + AI Interview)  
-- 🧩 **Text-to-SQL Converter**, **Blog Writer**, **YouTube Summarizer**
+<ul>
+  <li>🔍 <b>Infosys Springboard AI Intern</b> (Dec 2024 – Feb 2025)<br/>
+  Built an AI tool for <b>Supply Chain Disruption Prediction</b> integrated with ERP systems and real-time alerting.</li><br/>
+
+  <li>🤖 <b>Agiliz Tech - Prompt Engineering Intern</b> (Nov 2023 – Dec 2023)<br/>
+  Developed a <b>Medical Chatbot</b> using Generative AI for patient assistance.</li><br/>
+
+  <li>💡 <b>Knowledge Solutions India - Python Intern</b> (May 2023 – Oct 2023)<br/>
+  Built a <b>Cable TV Management System</b> using Python and SQL with real-time error handling.</li>
+</ul>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h3 style="color:#BB86FC;">🚀 Projects & Implementations</h3>
 
-#### Languages & Web
+<ul>
+  <li>🧠 <b>Stroke Prediction Model</b> (Random Forest)</li>
+  <li>🧠 <b>Parkinson’s Detection</b> (XGBoost, Logistic Regression, SVM)</li>
+  <li>🩺 <b>Pneumonia Detection</b> (CNN)</li>
+  <li>👁️ <b>Diabetic Retinopathy Detection</b> (InceptionV3, ResNet50)</li>
+  <li>📋 <b>Essay Scoring System</b> (SpaCy)</li>
+  <li>📢 <b>Speech/Text Assist Tool</b> (Accessibility-focused)</li>
+  <li>🌐 <b>Multilingual Chat Translator</b></li>
+  <li>📈 <b>Automated Hiring System</b> using Gemini (Resume Screening + AI Interview)</li>
+  <li>🧩 <b>Text-to-SQL Converter</b>, <b>Blog Writer</b>, <b>YouTube Summarizer</b></li>
+</ul>
+
+---
+
+<h3 style="color:#BB86FC;">🛠️ Tech Stack & Tools</h3>
+
+<b>Languages & Web</b><br/>
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -64,7 +70,7 @@
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### Libraries & Frameworks
+<b>Libraries & Frameworks</b><br/>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -73,7 +79,7 @@
   <img src="https://img.shields.io/badge/SpaCy-009688?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
-#### Tools & Platforms
+<b>Tools & Platforms</b><br/>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
@@ -83,10 +89,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-
 ---
 
-### 📊 GitHub Stats
+<h3 style="color:#BB86FC;">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaronSam-30052003&show_icons=true&theme=radical" height="150"/>
@@ -99,17 +104,19 @@
 
 ---
 
-### 🏆 Highlights
+<h3 style="color:#BB86FC;">🏆 Highlights</h3>
 
-- 🥈 **2nd Prize** – AI Hackathon @ Oasys Cybernetics  
-- 🏅 **Published 2 Research Papers** (AI Screw Counting, Cancer Chatbot)  
-- 🧠 **Finalist at Hack4Change by Google & The Nudge Institute**  
-- 🎤 Multiple Project Presentations across national-level events  
-- 🎓 NPTEL Certified | UX Design by Google | GenAI by Infosys
+<ul>
+  <li>🥈 <b>2nd Prize</b> – AI Hackathon @ Oasys Cybernetics</li>
+  <li>🏅 <b>Published 2 Research Papers</b> (AI Screw Counting, Cancer Chatbot)</li>
+  <li>🧠 <b>Finalist at Hack4Change</b> by Google & The Nudge Institute</li>
+  <li>🎤 Multiple Project Presentations across national-level events</li>
+  <li>🎓 NPTEL Certified | UX Design by Google | GenAI by Infosys</li>
+</ul>
 
 ---
 
-### 🎞️ Fun While Coding
+<h3 style="color:#BB86FC;">🎞️ Fun While Coding</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -117,7 +124,7 @@
 
 ---
 
-### 📬 Contact Me
+<h3 style="color:#BB86FC;">📬 Contact Me</h3>
 
 <p align="center">
   <a href="mailto:aaronvsam289@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" width="30"/></a>
@@ -127,4 +134,8 @@
 
 ---
 
-⭐ *Thanks for visiting! Don't forget to star and fork any project that inspired you!*
+<p align="center" style="color:#BBBBBB;">
+⭐ <i>Thanks for visiting! Don't forget to star and fork any project that inspired you!</i>
+</p>
+
+</div>
