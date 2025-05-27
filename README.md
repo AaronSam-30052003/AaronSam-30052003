@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/aaron-sam-31054522b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
-  <a href="https://aaronsam-30052003.github.io/as_portfolio/">
+  <a href="[https://aaronsam-30052003.github.io/as_portfolio/](https://aaronsam-30052003.github.io/AS_Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen?style=flat" />
   </a>
 </p>
